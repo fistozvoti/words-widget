@@ -1,0 +1,27 @@
+html,
+body {
+  background-color: gold;
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  left: 0;
+  top: 0;
+  font-size: 100%;
+}
+* {
+  font-size: large;
+  font-family: Impact;
+  color: black;
+  line-height: 1.5;
+  text-align: center;
+}
+h1 {
+    font-size: xx-large;
+}
+.error {
+    color: red;
+}
+.maxWordCount {
+    width: 60px;
+}
